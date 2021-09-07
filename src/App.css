@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #DBD6C8 !important;
+}
+
+.card-header {
+  background-color: #cce2cc !important;
+  border-color: #b4d4b4 !important;
+}
+
+.card {
+  border-color: #b4d4b4 !important;
+}
+
+button a {
+  color: white;
+}
+
+.areYouSure{
+  background-color: rgba(0, 0, 0, 0.26);
+}
+
+
+.font-small {
+  font-size: 12px;
+}
